@@ -1,0 +1,111 @@
+body {background: #e3e3e3;}
+ul{list-style: none;}
+li{display: inline; margin-right: 20px;}
+.toolbar {margin-right: 0px; margin-top: 0px; text-align: center; padding-bottom: 10px; float: right;}
+.wrapper {width: 980px; height: auto; background: #00adef; color: #888; margin: 0 auto; padding-bottom: 60px; margin-top: 150px;}
+.heading h1 {margin-top: 0px; text-align: center; padding-bottom: 10px; padding-top: 20px; color: #fff;}
+/* unvisited link */
+			
+a:link {
+    color: #2b2b2b;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #2b2b2b;
+    text-decoration: none;
+}
+
+.contents {word-wrap: break-word; margin-top: 5px;}
+.options{text-align: right; float: right; margin-left: 300px; margin-top: 15px;} 
+.logout {position: absolute; margin-left: 830px; margin-top: -120px; color: #218bc8; font-size: 18px;}
+.logout a {color: #e2284f;}
+.subliner {width: 100%; height: 5px; background-color: #ec008b;}
+.dramacontainer {width: 980px; height: auto; background-color: #f6f6f6; margin-top: 80px; padding-top: 2px;}
+.videocon {width: 320px; height: 180px; background-color: black; margin-left: 10px; margin-top: 10px;}
+.playheader {margin-top: -200px; }
+.actors {margin-top: 5px; }
+.line-breaker {width: 100%; height: 50px; background-color: #00adef; margin-bottom: -80px; margin-top: 15px; }
+#test-display {margin-left: 350px; color: #2b2b2b;}
+.cmsnav {float: left; text-align: center; width: 100px; height: 45px; background-color: #218bc8; margin-left: 5px; margin-top: 8px;  transition: 0.5s;}
+.cmsnav h3 {margin-top: 10px; font-size: 24px; color: #fff;}
+.cmsnav h3 a {color: #fff; }
+#navmove {margin-left: 665px; margin-top: -45px; position: absolute; z-index: -1;}
+.cmsnav:hover {background-color: #ec008b; margin-top: 0px; transition: 0.5s; }
+#dmslogo {position: absolute; margin-left: 0px; margin-top: -100px;}
+#footer h3 {text-align: center; position: absolute; margin-left: 10px; margin-top: 30px; color: #2b2b2b;}
+
+.edit-heading {text-align: center;}
+.edit-heading h2 {color: #2b2b2b;}
+
+.edit-title {color: #2b2b2b;  margin-left: 211px;}
+.edit-act {color: #2b2b2b;  margin-left: 176px; margin-top: 10px;}
+.edit-actors {color: #2b2b2b;  margin-left: 199px; margin-top: 10px;}
+.edit-content {color: #2b2b2b;  margin-left: 189px; margin-top: 10px;}
+.edit-videoname {color: #2b2b2b;  margin-left: 154px; margin-top: 15px;}
+.edit-category {color: #2b2b2b; margin-left: 182px;  margin-top: 10px;}
+.edit-button input{margin-left: 70%; padding-bottom: 10px;
+   background: #00abef;
+   padding: 5.5px 11px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   color: #ffffff;
+   font-size: 13px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+}
+
+.edit-button input:hover {
+   border-top-color: #ec008a;
+   background: #ec008a;
+   color: #ffffff;
+   }
+   
+.edit-button input:active {
+   border-top-color: #ec008a;
+   background: #ec008a;
+   }
+
+.add-heading {text-align: center;}
+.add-heading h2 {color: #2b2b2b;}
+
+.add-title {color: #2b2b2b;  margin-left: 211px;}
+.add-act {color: #2b2b2b;  margin-left: 176px; margin-top: 10px;}
+.add-actors {color: #2b2b2b;  margin-left: 199px; margin-top: 10px;}
+.add-content {color: #2b2b2b;  margin-left: 166px; margin-top: 10px;}
+.add-videoname {color: #2b2b2b; margin-left: 155px;  margin-top: 30px;}
+.add-category {color: #2b2b2b; margin-left: 182px;  margin-top: 10px;}
+.add-button input {margin-left: 71%; padding-bottom: 10px; margin-top: -36px;
+   background: #00abef;
+   padding: 5.5px 11px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   color: #ffffff;
+   font-size: 13px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+}
+
+.add-button input:hover {
+   border-top-color: #ec008a;
+   background: #ec008a;
+   color: #ffffff;
+   }
+.add-button input:active {
+   border-top-color: #ec008a;
+   background: #ec008a;
+   }
+
+.add-error {color: red; text-align: center;}
+.add-video {margin-left: 150px; margin-top: 10px; color: #2b2b2b; }
+.add-image {margin-left: 330px; margin-top: 5px; color: #2b2b2b; }
+.add-imagefile {margin-left: 330px; margin-top: 5px; color: #2b2b2b; }  
+
+.img-container img{float: left; margin-left: 50px; margin-top: 50px; }
+.gallerycmsbox {width: 980px; margin: 0 auto; height: auto;}
+.gallerycmsbox h2 {margin-bottom: -20px; text-align: center;}
