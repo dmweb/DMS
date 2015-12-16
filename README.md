@@ -7,7 +7,8 @@ Create a database in phpmyadmin called blog. Then import blog.sql into that data
 ========================
 The Login Details:
 ========================
-Username: admin  |  
+Username: admin
+
 Password: admin
 
 
